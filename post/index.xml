@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kelvin Odigili</title>
+    <link>https://kelvin006.github.io/kelvin_portfolio/post/</link>
+    <description>Recent content in Projects on Kelvin Odigili</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kelvin006.github.io/kelvin_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Market Basket Analysis for Retailers</title>
+      <link>https://kelvin006.github.io/kelvin_portfolio/post/project-4/</link>
+      <pubDate>Wed, 03 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kelvin006.github.io/kelvin_portfolio/post/project-4/</guid>
+      <description>While shopping on popular ecommerce websites like Amazon, you must have stumbled upon features like &amp;lsquo;frequently Bought together&amp;rsquo; suggesting that you may like a similar product to the one you are viewing. This feature is achieved by using an unsupervised machine learning approach called Market Basket Analysis. Under the hood, it uses apriori algorithm. I have done a project exploring this approach. The project&amp;rsquo;s objectives are:
+ Create a detailed Exploratory analysis of the dataset created by Instacart.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Customer Churn Prediction</title>
+      <link>https://kelvin006.github.io/kelvin_portfolio/post/project-3/</link>
+      <pubDate>Wed, 03 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kelvin006.github.io/kelvin_portfolio/post/project-3/</guid>
+      <description>In this project I have created a classifier model using the drag and drop feature provided by Oracle Data Miner. Even though the software allows the use of SQL queries, a large amount of the tasks were carried out using just the drag and drop features. The project aims to predict customers that are likely to churn from a telecommunication company, so that management can act before this happens.
+  This project&amp;rsquo;s documentation can be found on my linkedin</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Big Data Crime Analytics in UK</title>
+      <link>https://kelvin006.github.io/kelvin_portfolio/post/project-2/</link>
+      <pubDate>Wed, 30 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kelvin006.github.io/kelvin_portfolio/post/project-2/</guid>
+      <description>The project aims to provide a detailed analysis as well as answer some questions about crimes in the UK. The dataset comprises of approximately 40 million records of crime data from 2010 to 2018. Apache Spark through python (Pyspack) was majorly used.
+  This project&amp;rsquo;s GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Heart Disease Prediction among Patients</title>
+      <link>https://kelvin006.github.io/kelvin_portfolio/post/project-1/</link>
+      <pubDate>Mon, 28 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kelvin006.github.io/kelvin_portfolio/post/project-1/</guid>
+      <description>The aim of the project is to hasten heart disease diagnosis by about 30% to save doctors and medical practitioners time. Various classifier models were built with health dataset (about 70,000 records). The models were evaluated with accuracy and Mathews Correlation Coefficient (MCC). Prior to model building, the given dataset was analysed and some interesting insights were uncovered.
+  This project&amp;rsquo;s GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/</loc>
+    <lastmod>2021-03-03T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kelvin006.github.io/kelvin_portfolio/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kelvin006.github.io/kelvin_portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/post/project-4/</loc>
+    <lastmod>2021-03-03T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/post/project-3/</loc>
+    <lastmod>2021-02-03T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/post/project-2/</loc>
+    <lastmod>2020-12-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/post/project-1/</loc>
+    <lastmod>2020-12-28T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kelvin006.github.io/kelvin_portfolio/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kelvin006.github.io/kelvin_portfolio/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kelvin006.github.io/kelvin_portfolio/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kelvin006.github.io/kelvin_portfolio/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kelvin006.github.io/kelvin_portfolio/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kelvin006.github.io/kelvin_portfolio/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kelvin006.github.io/kelvin_portfolio/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://kelvin006.github.io/kelvin_portfolio/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kelvin006.github.io/kelvin_portfolio/tags/"
+                />
+  </url>
+  
+</urlset>
